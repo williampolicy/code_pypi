@@ -53,4 +53,6 @@ code_pypi for pypi , use pip in future for my digital tools world
     ```bash
     twine upload dist/*
     ```
-    
+
+--
+git push ok 
